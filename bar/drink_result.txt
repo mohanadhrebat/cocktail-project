@@ -1,0 +1,15 @@
+| Thank you for your order! |
+| Here is your drink, enjoy! |
+
+Blender Information:
+Blender: Capacity - 200
+Fruits:
+- Grapes
+- Orange
+Additions:
+- Sugar
+
+Calories: 80 CAL
+Price: $26
+Current Cocktail Color: RGB(183, 105, 84)
+Volume of Cocktail: 130
